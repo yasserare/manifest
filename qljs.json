@@ -8,7 +8,7 @@
     }, {
       "name": "linux-aarch64.tar.gz", "version": "2.13.0",
       "lts": false, "channel": "stable", "date": "2023-04-14",
-      "os": "linux", "arch": "ARMv8", "ext":"tar", "download":
+      "os": "linux", "arch": "armv8", "ext":"tar", "download":
       "https://c.quick-lint-js.com/releases/2.13.0/manual/linux-aarch64.tar.gz"
     }, {
       "name": "linux-armhf.tar.gz", "version": "2.13.0",
@@ -23,7 +23,7 @@
     }, {
       "name": "macos-aarch64.tar.gz", "version": "2.13.0",
       "lts": false, "channel": "stable", "date": "2023-04-14",
-      "os": "macos", "arch": "ARMv8", "ext":"tar", "download":
+      "os": "macos", "arch": "armv8", "ext":"tar", "download":
       "https://c.quick-lint-js.com/releases/2.13.0/manual/macos-aarch64.tar.gz"
     },   {
       "name": "windows.zip", "version": "2.13.0", "lts":
