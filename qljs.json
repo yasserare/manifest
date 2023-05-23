@@ -64,7 +64,7 @@
       "os": "windows",
       "arch": "amd64",
       "ext": "zip",
-      "download": "https://c.quick-lint-js.com/releases/2.13.0/manual/windows.tar.gz"
+      "download": "https://c.quick-lint-js.com/releases/2.13.0/manual/windows.zip"
     },
     {
       "name": "windows-arm.zip",
@@ -163,7 +163,7 @@
       "os": "windows",
       "arch": "amd64",
       "ext": "zip",
-      "download": "https://c.quick-lint-js.com/releases/2.12.0/manual/windows.tar.gz"
+      "download": "https://c.quick-lint-js.com/releases/2.12.0/manual/windows.zip"
     },
     {
       "name": "windows-arm.zip",
